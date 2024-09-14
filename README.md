@@ -15,7 +15,7 @@ History Companion is a Streamlit-based web application that serves as an interac
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/history-companion.git
+   git clone https://github.com/lalomorales22/HistoryCompanion-Streamlit100.git
    cd history-companion
    ```
 
